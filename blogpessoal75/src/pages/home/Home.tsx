@@ -2,6 +2,7 @@ import React from 'react';
 import homeLogo from '../../assets/home.png'
 import './Home.css';
 
+
 function Home() {
     return (
         <>
@@ -23,7 +24,7 @@ function Home() {
             </div>
           </div>
         </div>
-        
+      
       </>
     );
 }
