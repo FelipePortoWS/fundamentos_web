@@ -88,7 +88,7 @@ function login(e: ChangeEvent<HTMLFormElement>) {
         <div className="fundoLogin hidden lg:block"></div>
       </div>
     </>
-  );  
+  );
 }
 
 export default Login;
